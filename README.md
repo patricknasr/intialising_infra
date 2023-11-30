@@ -35,6 +35,7 @@ A project that generates an HTML template for report findings surrounding input 
 * ![plotly]
 * ![ginger]
 * ![mysql]
+* ![alchemy]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,13 +43,9 @@ A project that generates an HTML template for report findings surrounding input 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [] MYSql Database Initialisation Using SQLAlchemy
+- [] Templating using Jinja
+- [] Plotly for enhanced graphing
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -69,7 +66,8 @@ Your Name - pnasrwork@gmail.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [python.py]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
 [plotly]: https://img.shields.io/badge/Plotly-20232A?style=for-the-badge&logo=plotly&logoColor=61DAFB
-[ginger]: https://img.shields.io/badge/Ginger-20232A?style=for-the-badge&logo=&logoColor=61DAFB
+[ginger]: https://img.shields.io/badge/Jinja-20232A?style=for-the-badge&logo=Jinja&logoColor=61DAFB
 [mysql]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB
+[alchemy]: https://img.shields.io/badge/SQLAlchemy-20232A?style=for-the-badge&logo=SQLAlchemy&logoColor=61DAFB
 
 [contributors-shield]: https://img.shields.io/github/contributors/patricknasr/ipg-report-gen?style=for-the-badge
